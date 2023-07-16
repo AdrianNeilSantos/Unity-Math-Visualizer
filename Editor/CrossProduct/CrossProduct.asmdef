@@ -1,0 +1,17 @@
+{
+    "name": "CrossProduct",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d3bcf9ccdfa89314091c389931e347e9",
+        "GUID:f51956d98c1fc6f4d9c3e77f36317d4b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
