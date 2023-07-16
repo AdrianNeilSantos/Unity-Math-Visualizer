@@ -1,0 +1,26 @@
+{
+  "name": "com.adrian-santos.math-visualizer",
+  "version": "1.0.0",
+  "displayName": "Math Visualizer",
+  "description": "Math visualizer allows users to visualize dot products and cross products in Unity.",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "Unity",
+    "Editor",
+    "Visualization",
+    "Math",
+    "Dot Product",
+    "Cross Product"
+  ],
+  "author": {
+    "name": "Adrian Neil Santos",
+    "email": "adrianneilsantos@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "license": "MIT",
+  "type": "tool"
+}
